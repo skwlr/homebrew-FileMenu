@@ -1,6 +1,6 @@
 cask "filemenu" do
-  version "1.0.1"
-  sha256 "c592edcfb5f2a6d3dad280b4cbc5e5aab20ebe0eba972e7dfddd749a29542199"
+  version "1.0.2"
+  sha256 "67435d532f92c68c3c3e2251431632b4b658877c5c67981349d05cf0f337c5a7"
 
   url "https://github.com/skwlr/FileMenu/releases/download/v#{version}/FileMenu-#{version}-macos.zip"
   name "File Menu"
